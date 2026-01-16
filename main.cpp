@@ -32,7 +32,7 @@ int main()
     int area = width * width; 
     std::cout << "[MATH] Mathematical Area: " << area << " units^2" << std::endl;
 
-    std::cout << "\n--- RENDERING OUTPUT ---\n";
+    std::cout << "\n--- RENDERING OUTPUT ---\n\n";
 
     for(int i = 0; i < width; ++i)
     {
@@ -43,7 +43,7 @@ int main()
     	std::cout << "\n";
     }
 
-    std::cout << "[INFO] Render Complete.\n\n";
+    std::cout << "\n\n[INFO] Render Complete.\n\n";
 
 
 	return 0;
