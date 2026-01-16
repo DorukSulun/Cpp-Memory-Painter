@@ -38,3 +38,28 @@ To run this project locally, follow these steps via your terminal:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Cpp-Memory-Painter.git](https://github.com/DorukSulun/Cpp-Memory-Painter.git)
 cd Cpp-Memory-Painter
+**2. Compile the Source Code**
+```bash
+clang++ main.cpp -o Painter
+./Painter
+```
+
+## 🚀 Usage Example
+
+========================================
+   CPP MEMORY PAINTER & ASCII ART TOOL  
+========================================
+[INPUT] Enter a symbol to draw with: #
+[INPUT] Enter the width of the square: 4
+
+--- TECHNICAL SPECS ---
+Selected Symbol: '#'
+[MEMORY] 'char' variable consumes: 1 byte(s)
+[MEMORY] 'int' variable consumes:  4 byte(s)
+[MATH] Mathematical Area: 16 units^2
+
+## 📝 License
+
+Distributed under the MIT License.
+
+
