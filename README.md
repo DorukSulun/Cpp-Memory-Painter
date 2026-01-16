@@ -46,18 +46,27 @@ clang++ main.cpp -o Painter
 
 ## 🚀 Usage Example
 
+```text
 ========================================
-   CPP MEMORY PAINTER & ASCII ART TOOL  
+    CPP MEMORY PAINTER & ASCII ART TOOL  
 ========================================
-[INPUT] Enter a symbol to draw with: #
-[INPUT] Enter the width of the square: 4
+[INPUT]  Enter a symbol to draw with: #
+[INPUT]  Enter the width of the square: 4
 
 --- TECHNICAL SPECS ---
 Selected Symbol: '#'
 [MEMORY] 'char' variable consumes: 1 byte(s)
 [MEMORY] 'int' variable consumes:  4 byte(s)
-[MATH] Mathematical Area: 16 units^2
+[MATH]   Mathematical Area: 16 units^2
 
+--- RENDERING OUTPUT ---
+# # # # 
+# # # # 
+# # # # 
+# # # # 
+
+[INFO]   Render Complete.
+```
 ## 📝 License
 
 Distributed under the MIT License.
